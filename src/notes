@@ -1,0 +1,5 @@
+<Route path="/blog" component={ () => 
+	<Post title="what up"
+			author="Devan"
+			bdoy="THis is the body yo" />
+}/>
